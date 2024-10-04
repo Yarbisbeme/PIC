@@ -3,7 +3,7 @@ name: Prueba Unitaria Devops
 on:
   push:
     branches:
-      - Main        # Ejecuta en la rama principal
+      - main        # Ejecuta en la rama principal
       - dev  # Ejecuta en la rama de desarrollo
 
 jobs:
